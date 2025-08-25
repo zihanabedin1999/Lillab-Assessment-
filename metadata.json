@@ -1,0 +1,5 @@
+{
+  "name": "Social Feed Mock",
+  "description": "A React application demonstrating a social media feed with a complete authentication flow, using mock data and services to simulate a real-world user experience.",
+  "requestFramePermissions": []
+}
